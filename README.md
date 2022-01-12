@@ -5,4 +5,3 @@
 - I'm currently learning dynamic programming and some rust-lang. ⌛
 - I sometimes solve puzzles in [Project Euler]("https://projecteuler.net/about"). 🧩
 
-![Joseph's Project Euler Progress](https://projecteuler.net/profile/caburj.png)
