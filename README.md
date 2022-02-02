@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - Just as many of you, I also became a software developer by self-study. 📖
-- I'm currently a maintainer of Odoo's Point of Sale module. 💻
-- I'm currently learning dynamic programming. ⌛
-- I sometimes solve puzzles in [Project Euler]("https://projecteuler.net/about"). 🧩
-
+- Currently one of the maintainers of Odoo's Point of Sale module. 💻
+- Trying to learn dynamic programming. ⌛
+- Sometimes solve puzzles in [Project Euler]("https://projecteuler.net/about"). 🧩
